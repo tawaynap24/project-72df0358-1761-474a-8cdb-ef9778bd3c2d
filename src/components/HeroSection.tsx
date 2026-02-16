@@ -8,8 +8,8 @@ const HeroSection = () => {
         <img
           src={heroImage}
           alt="ลูกชิ้นสดใหม่"
-          className="w-full h-full object-cover"
-        />
+          className="w-full h-full object-cover" />
+
         <div className="absolute inset-0" style={{ background: "var(--hero-gradient)" }} />
       </div>
 
@@ -28,21 +28,21 @@ const HeroSection = () => {
           <div className="flex gap-4 pt-4">
             <a
               href="#products"
-              className="inline-flex items-center px-8 py-4 rounded-lg bg-primary-foreground text-primary font-display font-semibold text-lg hover:scale-105 transition-transform"
-            >
+              className="inline-flex items-center px-8 py-4 rounded-lg bg-primary-foreground text-primary font-display font-semibold text-lg hover:scale-105 transition-transform">
+
               ดูสินค้า
             </a>
             <a
-              href="#contact"
-              className="inline-flex items-center px-8 py-4 rounded-lg border-2 border-primary-foreground text-primary-foreground font-display font-semibold text-lg hover:bg-primary-foreground/10 transition-colors"
-            >
+
+              className="inline-flex items-center px-8 py-4 rounded-lg border-2 border-primary-foreground text-primary-foreground font-display font-semibold text-lg hover:bg-primary-foreground/10 transition-colors" href="/contact">
+
               ติดต่อเรา
             </a>
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default HeroSection;
