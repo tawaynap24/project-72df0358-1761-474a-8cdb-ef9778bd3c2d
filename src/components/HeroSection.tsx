@@ -20,7 +20,7 @@ const HeroSection = () => {
             สดใหม่ทุกวัน · ไม่ใส่สารกันเสีย
           </p>
           <h1 className="text-5xl md:text-7xl font-display font-bold leading-tight">
-            มะม่วง
+            มะม่วงป่าว
           </h1>
           <p className="text-xl font-body opacity-90 max-w-lg">
             ลูกชิ้นคุณภาพ ผลิตจากเนื้อสัตว์คัดพิเศษ สูตรลับเฉพาะ ส่งตรงถึงบ้านคุณ
