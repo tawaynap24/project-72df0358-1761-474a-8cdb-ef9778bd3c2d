@@ -36,7 +36,7 @@ const HeroSection = () => {
 
               className="inline-flex items-center px-8 py-4 rounded-lg border-2 border-primary-foreground text-primary-foreground font-display font-semibold text-lg hover:bg-primary-foreground/10 transition-colors" href="/contact">
 
-              ติดต่อเรา
+              ติดต่อเรามั้ย
             </a>
           </div>
         </div>
